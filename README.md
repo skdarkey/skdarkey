@@ -3,18 +3,15 @@
 
 Selorm is a Data Analyst who seeks above all things to use his professional skills, knowledge, and resources to contribute to a sustainable society. I strive for quality education because I believes that the poverty of knowledge only breeds limitations to my thoughts and ability to live fully. This principle led me to develop high-level knowledge and practical skills in Geospatial technologies (GIS, Remote Sensing) and Data Science. 
 
-I deem my life fulfilled when my activities, initiatives, and contributions impact to lift others up on their journeys to sustainable success!!!
 
 ## Languages, Skills and Experience
 * 🔆PYTHON
 * 🔆SQL
-* 🔆HTML
-* 🔆CSS 
-* 🔆MATLAB
+
 
 ## Currently
 - 🔭 Completing MSc Photogrammetry and Geoinformatics 
-- 🌱 Mastering Machine learning and Microsoft Azure Data Engineering 
+- 🌱 Mastering Deep Learning with TesnsorFlow
 - 👯 Looking to collaborate on Data Science, Machine learning and Geographical Information Systems
 
 
