@@ -4,7 +4,7 @@
 Data Scientist and Machine Learning Engineer with Geospatial expertise. 
 
 
-## Languages, Skills and Experience
+## Main Languages
 * 🔆PYTHON
 * 🔆SQL
 
