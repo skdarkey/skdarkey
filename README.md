@@ -12,7 +12,7 @@ Data Scientist and Machine Learning Engineer with Geospatial expertise.
 ## Currently
 - 🔭 MSc Photogrammetry and Geoinformatics 
 - 🌱 Deep Learning with TesnsorFlow
-- 👯 Collaborating on Data Science, Machine learning and Geographical Information Systems.
+- 👯 Collaborating on Data Science, Machine learning and Geospatial Intelligence projects.
 
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=skdarkey&count_private=true&show_icons=true&theme=radical" /> 
