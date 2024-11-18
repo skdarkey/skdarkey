@@ -1,15 +1,20 @@
 # Selorm Komla Darkey👋
 
 
-Data Scientist and Machine Learning Engineer with Geospatial expertise. 
+Geospatial Data Scientist and Machine Learning Engineer. 
+- I specilize in using Data Science, Machine Learning and Geospatial data to generate valuable property and environmental insghts. 
 
 
-## Main Languages
+## Main Technologies
 * 🔆PYTHON
 * 🔆SQL
+* 🔆GIS & Remote Sensing
+* 🔆Azure
+* 🔆AWS
 
 
 ## Currently
+- 🔭 Postgraduate Researcher - University of Exeter, UK.
 - 🔭 MSc Photogrammetry and Geoinformatics 
 - 🌱 Deep Learning with TesnsorFlow
 - 👯 Collaborating on Data Science, Machine learning and Geospatial Intelligence projects.
