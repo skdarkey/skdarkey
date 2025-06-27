@@ -2,7 +2,7 @@
 
 
 Geospatial Data Scientist and Machine Learning Engineer. 
-- I specilize in using Data Science, Machine Learning and Geospatial data to generate valuable property and environmental insghts. 
+- I specialize in using Data Science, Machine Learning and Geospatial data to generate valuable property and environmental insghts. 
 
 
 ## Main Technologies
