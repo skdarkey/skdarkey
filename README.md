@@ -1,7 +1,7 @@
 # Selorm Komla Darkey👋
 
 
- Machine Learning Engineer & Geospatial Data Scientist. 
+ Machine Learning Engineer (AWS Certified) & Geospatial Data Scientist. 
 - I specialize in using Data Science, Machine Learning and Geospatial data to generate valuable insghts and business critical solutions for industry. 
 
 
